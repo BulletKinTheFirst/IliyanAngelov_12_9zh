@@ -1,0 +1,14 @@
+E:\2022_2023\Теми\УП програмиране\Exam\IntNumber\bin\Debug\IntNumber.exe.config
+E:\2022_2023\Теми\УП програмиране\Exam\IntNumber\bin\Debug\IntNumber.exe
+E:\2022_2023\Теми\УП програмиране\Exam\IntNumber\bin\Debug\IntNumber.pdb
+E:\2022_2023\Теми\УП програмиране\Exam\IntNumber\obj\Debug\IntNumber.csproj.AssemblyReference.cache
+E:\2022_2023\Теми\УП програмиране\Exam\IntNumber\obj\Debug\IntNumber.csproj.CoreCompileInputs.cache
+E:\2022_2023\Теми\УП програмиране\Exam\IntNumber\obj\Debug\IntNumber.exe
+E:\2022_2023\Теми\УП програмиране\Exam\IntNumber\obj\Debug\IntNumber.pdb
+C:\Users\Student\Documents\IliyanAngelov_12_9zh\DataType-9.zh-class\Exam\IntNumber\bin\Debug\IntNumber.exe.config
+C:\Users\Student\Documents\IliyanAngelov_12_9zh\DataType-9.zh-class\Exam\IntNumber\bin\Debug\IntNumber.exe
+C:\Users\Student\Documents\IliyanAngelov_12_9zh\DataType-9.zh-class\Exam\IntNumber\bin\Debug\IntNumber.pdb
+C:\Users\Student\Documents\IliyanAngelov_12_9zh\DataType-9.zh-class\Exam\IntNumber\obj\Debug\IntNumber.csproj.AssemblyReference.cache
+C:\Users\Student\Documents\IliyanAngelov_12_9zh\DataType-9.zh-class\Exam\IntNumber\obj\Debug\IntNumber.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\IliyanAngelov_12_9zh\DataType-9.zh-class\Exam\IntNumber\obj\Debug\IntNumber.exe
+C:\Users\Student\Documents\IliyanAngelov_12_9zh\DataType-9.zh-class\Exam\IntNumber\obj\Debug\IntNumber.pdb
